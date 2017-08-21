@@ -1,0 +1,87 @@
+
+DirectoryIndex index.pl index.html
+
+# Options -Indexes and Options None seem to be ignored once DirectoryIndex has been enabled. Curious. 
+
+# The "Order" is not necessary for correct function, but I'm leaving it as a safety net since it is more
+# restrictive: "Last, any requests which do not match an Allow or a Deny directive are denied by default."
+# https://httpd.apache.org/docs/2.0/mod/mod_access.html
+
+Order allow,deny
+
+# Seems like we'd be better off listing what we *do* serve, as opposed to what to not to serve.
+
+# This directive allows dev/ to serve the directory index page.
+<Files ~ "^$">
+    Allow from all
+</Files>
+
+# This directive allows /dev to redirect to dev/. The following will not work if "\/dev$". Apparently, httpd
+# <Files> never sees the / before the last token.
+<Files ~ "dev$">
+    Allow from all
+</Files>
+
+# This allows only file extensions that we trust and like.
+<Files ~ "(\.html|\.pl|\.css|\.xml|\.xsl)$">
+    Allow from all
+</Files>
+
+
+
+# Prevent any dot files from being viewed by web clients. 
+
+# <Files ~ "^\.">
+#     Order allow,deny
+#     Deny from all
+# </Files>
+
+# Don't serve up any Perl modules
+
+# <Files ~ "\.pm$">
+#     Order allow,deny
+#     Deny from all
+# </Files>
+
+# Don't serve up any files which have generic versions distributed in the repository. This shouldn't be a
+# problem since the .dist versions should not have any interesting values, but there is not reason to serve
+# them so we won't.
+
+# <Files ~ "\.dist$">
+#     Order allow,deny
+#     Deny from all
+# </Files>
+
+# Don't server up any documentation.
+
+# <Files ~ "\.md$">
+#     Order allow,deny
+#     Deny from all
+# </Files>
+
+
+# No RewriteCond means that the rule always fires. This works because
+# this .htaccess is in the infogizmo/downhome dir otherwise strange
+# things would happen. 
+
+# [L] rewrites the new page, but leaves the URL unchanged. 
+
+# [R] redirects.
+
+# RewriteEngine on
+# RewriteBase /
+
+# Test that RewriteEngine is working by hitting URL xyz.html
+# The file must be prefixed by the absolute path from document root.
+# RewriteRule xyz.html dev/index.pl [L]
+
+# RewriteRule (.*) http://laudeman.com/downhome/$1 [R]
+# RewriteCond %{REQUEST_URI} iaa_r1100rt.*
+# RewriteRule ^(.*)$ /~mst3k/$1 [L]
+
+# Rewrite dot file requests
+# RewriteRule \.* index.pl [L]
+
+
+
+

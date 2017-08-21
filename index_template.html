@@ -1,0 +1,139 @@
+<html>
+  <head>
+    <title>MARC to EAC-CPF web interface</title>
+    <link rel=stylesheet href="style.css" type="text/css">
+  </head>
+  <body >
+    <img src="http://socialarchive.iath.virginia.edu/images/paperdolls_mask_smaller2.jpg" title="SNAC: The Social Networks and Archival Context Project" alt="SNAC logo header">
+    <p>
+      <h3>Web EAC-CPF from MARC</h3>
+    </p>
+    <p style="width:600px;">
+      This web site extracts data from MARC records, creating Encoded Archival Context-Corporate Bodies,
+      Persons, and Families (EAC-CPF) XML. EAC-CPF standardizes descriptions of people and groups who are
+      documented in archival records. Basically, you upload MARC, and this web site will create EAC-CPF which
+      you may view or download. This is intended to be a gentle introduction to creating EAC-CPF from MARC.
+    </p>
+    <p>
+      Supported MARC formats are .mrc and MARC21/slim .xml.
+    </p>
+    <hr style="margin-left: 0; text-align: left; width:50%">
+    <p>
+      <a href="index.pl">Web extractor home</a>
+      <br>
+      <a href="index.pl?state=show_paste">Paste in a record</a> 
+      <br>
+      <a href="index.pl?state=show_upload">Upload a file containing one or more records.</a>
+      <br>
+      <a href="index.pl?state=ask_dir">Retrieve data</a> (Data will only be retained for 7 days.)
+      <br>
+      <!-- tmpl_var name=msg -->
+      <br>
+    </p>
+
+    <hr style="margin-left: 0; text-align: left; width:50%">
+
+    <div id="show_upload" style="display:<!-- tmpl_var name=show_upload -->;">
+      <form action=index.pl method=POST enctype="multipart/form-data">
+        <input type=hidden name=state value=do_upload>
+        File to upload: <input type=file name=input>
+        <br>
+        <input type=submit name=upload value=Upload >
+      </form>
+    </div>
+
+
+    <div id="show_paste" style="display:<!-- tmpl_var name=show_paste -->;">
+      <form action=index.pl method=POST>
+        <input type=hidden name=state value=do_process>
+        Paste your MARC21/slim XML record here:
+        <br>
+        <textarea name=input cols=80 rows=20></textarea>
+        <br>
+        <input type=submit name=submit value=submit>
+      </form>
+    </div>
+
+    <div id="ask_dir" style="display:<!-- tmpl_var name=ask_dir -->;">
+      <form action=index.pl method=GET>
+        <input type=hidden name=state value=do_dir>
+        <table>
+          <tr>
+            <td>
+              Enter your data path from a previous run: 
+              <br>
+              For example: data/yadayada
+            </td>
+            <td valign=top>
+              <input type=text name=data_path>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              &nbsp;
+            </td>
+            <td >
+              <input type=submit name=submit value=submit>
+            </td>
+          </tr>
+        </table>
+      </form>
+    </div>
+
+    <div id="show_dir" style="display:<!-- tmpl_var name=show_dir -->;">
+      These are your files, including your original upload, and a ZIP archive of all files:
+      <br>
+      <table cellspacing="0">
+      <!-- tmpl_loop name=recs -->
+      <tr>
+        <td align=right>
+          <!-- tmpl_var name=basename -->
+        </td>
+        <td>
+          <a href="<!-- tmpl_var name=down_url -->" >Download</a>
+        </td>
+        <td>
+          &nbsp;
+          </td>
+        <td>
+          <!-- tmpl_if name=no_view -->
+          <span class=atext >View</span>
+          <!-- tmpl_else -->
+          <a href="<!-- tmpl_var name=view_url -->" >View</a>
+          <!-- /tmpl_if -->
+        </td>
+      </tr>
+      <!-- /tmpl_loop -->
+      </table>
+    </div>
+    
+    <div id="show_temp" style="display: <!-- tmpl_var name=show_temp -->">
+      <br>
+      Save this data path to retrieve results later: <!-- tmpl_var name=tempdir -->
+      <br>
+      AND/OR
+      <br>
+      Save this link to retrieve your results later: <a href="<!-- tmpl_var name=user_url -->"><!-- tmpl_var name=user_url --></a>
+    </div>
+
+    <hr style="margin-left: 0; text-align: left; width:50%">
+
+    <p>
+      Related external links
+      <br>
+      <br>
+      <a href="http://www.virginia.edu/">University of Virginia</a>
+      <br>
+      <br>
+      <a href="http://iath.virginia.edu/">The Institute for Advanced Technology in the Humanities</a>
+      <br>
+      <br>
+      <a href="http://socialarchive.iath.virginia.edu/">SNAC: The Social Networks and Archival Context Project</a>
+      <br>
+      <br>
+      <a href="https://github.com/twl8n/snac_eac_cpf_utils">SNAC EAC-CPF utilities source code on Github. This code is used to create EAC-CPF XML.</a>
+    </p>
+
+
+  </body>
+</html>

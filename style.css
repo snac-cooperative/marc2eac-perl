@@ -1,0 +1,48 @@
+
+body {
+    font-family: sans-serif;
+    margin-left: 100px;
+    margin-top: 0px;
+}
+
+
+td {
+    padding: 0em;
+}
+
+/* # is id */
+/* . is class */
+
+/* We want .atext to be the same style as td a so that the appearance and layout are the same, but it will be */
+/* text instead of a link, and will have a disabled looking color. */
+
+.atext {
+    color: #666666;
+}
+
+td a, .atext {
+    display: inline-block;
+    height:100%;
+    width:100%;
+    padding: 0px;
+    border: solid .2em white;
+    /* very light gray called Gainsboro  */
+    background-color: #DCDCDC;
+    text-align: center;
+}
+
+td a:hover, .atext:hover {
+    background-color: white;
+}
+
+a.button {
+    background: transparent url('bg_button_a.gif') no-repeat scroll top right;
+    color: #444;
+    display: inline;
+    /* float: left; */
+    font: normal 12px arial, sans-serif;
+    height: 24px;
+    margin-right: 6px;
+    padding-right: 18px; /* sliding doors padding */
+    text-decoration: none;
+}

@@ -1,0 +1,1101 @@
+id	gid	type	name
+1	1	corp	1	corp	100  Black Men of Chaleston, Inc.
+2	1	corp	2	corp	100 Black Men of Chaleston
+3	2	corp	1020 Art Center, Inc. (Chicago, Ill.)
+4	2	corp	1020 Art Center
+5	3	corp	1100 Architect (Firm)
+6	3	corp	1100 Architects
+7	4	corp	1199, National Health and Human Service Employee Union
+8	4	corp	1199, National Health and Human Service Employees Union
+9	5	corp	124 Hudson St. LLC.
+10	5	corp	124 Hudson Street (Project)
+11	6	corp	1900 Washer Co. (Toronto, Ont.)
+12	6	corp	1900 Washer Company, (Toronto, Ont.)
+13	7	corp	20th Century Radicalism in Minnesota Oral History Project
+14	7	corp	20th Century  Radicalism in Minnesota Projet
+15	8	corp	20th Century-Fox Film Corporation
+16	8	corp	20th Century-Fox
+17	8	corp	20th Century Fox Studio
+18	9	corp	22-Mile Ford Farm (Colfax, Wis.)
+19	9	corp	22-Mile Ford Hotel (Colfax, Wis.)
+20	10	corp	25th Street House Theatre (Saskatchewan)
+21	10	corp	25th Street House Theatre, Saskatoon
+22	10	corp	25th Street House Theatre
+23	11	corp	2x2 Trombone Quartet (Musical group)
+24	11	corp	2x2 Trombone Quartet
+25	12	corp	38th Street Church (Minneapolis, Minn.) [active 1896-active 1962]
+26	12	corp	38th Street Open Door Congregational Church (Minneapolis, Minn.) [active 1896-active 1962]
+27	13	corp	4-H Youth Development Program (U.S.)
+28	13	corp	4-H Youth Development Program
+29	14	corp	49ers (Musical group)
+30	14	corp	49ers
+31	15	corp	4EB (Radio station : Brisbane, Qld.)
+32	15	corp	4QG (Radio station : Brisbane, Qld.)
+33	16	corp	'76 Association (Charleston, S.C.)
+34	16	corp	'76 Association
+35	17	corp	7:84 Theatre Company England
+36	17	corp	7:84 Theatre Company
+37	18	corp	80 Langton Street (Gallery)
+38	18	corp	80 Langton Street
+39	19	corp	92nd Street Y (New York, N.Y.). Health and Physical Education Committee
+40	19	corp	92nd Street Y (New York, N.Y.). Health and Physical Education Dept.
+41	20	corp	A&M Records (Firm)
+42	20	corp	A&M Records Inc.
+43	20	corp	A&M Records Ltd.
+44	21	fami	A Beckett family
+45	21	fami	A Beckett family
+46	22	corp	A Space (Art gallery)
+47	22	corp	A Space Gallery (Brooklyn, New York, N.Y.)
+48	23	corp	A'Beckett, T.T.
+49	23	corp	A'Becektt, T.T., 1808-1892
+50	24	corp	A. & A. Lawrence & Co.
+51	24	corp	A. & A. Lawrence Co.
+52	24	corp	A. & A. Lawrence
+53	25	corp	A. & H. Blackmore
+54	25	corp	A. & H. Blackmore, Dramatic Agents & Co.
+55	26	corp	A. & W. Sprague Manufacturing Co.
+56	26	corp	A. & W. Sprague Manufacturing Company
+57	27	corp	A. Asher & Co.
+58	27	corp	A. Asher and Co.
+59	27	corp	A. Asher and Company
+60	28	corp	A.B. See Electric Elevator Company
+61	28	corp	A.B. See Elevator Co.
+62	29	corp	A. Booth & Company (Chicago, Ill.)
+63	29	corp	A. Booth & Son (Chicago, Ill.)
+64	30	corp	A. Brouseau & Co.
+65	30	corp	A. Brouseau & Co. (New Orleans, La.)
+66	31	corp	A. Denham & Co.
+67	31	corp	A. Denham & Company
+68	31	corp	A. Denham and Co.
+69	32	corp	A. Dirksen and Son (Springfield, Ill.)
+70	32	corp	A. Dirksen and Sons (Springfield, Ill.)
+71	33	corp	A. Grant, Jr. & Co.
+72	33	corp	A. Grant, Jr. & Co. (Newark, N.J.)
+73	34	corp	A. Hann & Son (Bridgeton, N.J.)
+74	34	corp	A. Hann & Son
+75	35	corp	A. Hess & Company
+76	35	corp	A. Hess
+77	36	corp	A.J. Johnson Co.
+78	36	corp	A.J. Johnson Company
+79	37	corp	A. Klipstein & Company
+80	37	corp	A. Klipstein and Company
+81	38	corp	A. Kuhlman & Co.
+82	38	corp	A. Kuhlman Co.
+83	39	corp	A. Lietz Co.
+84	39	corp	A. Lietz Company
+85	40	corp	A. Montgomery Ward and Co. (Chicago, Ill.)
+86	40	corp	A. Montgomery Ward and Company (Chicago, Ill.)
+87	41	corp	A.P. Watt & Sons
+88	41	corp	A.P. Watt and Son
+89	42	corp	A. Pardee & Company
+90	42	corp	A. Pardee & Company
+91	43	corp	A. Phillip Randolph Institute
+92	43	corp	A. Phillip Randolph Institute
+93	44	corp	A. Rosseter (Ship)
+94	44	corp	A. Rossetter (Ship)
+95	45	corp	A.S. Field (Ship)
+96	45	corp	A.S. Fields (Ship)
+97	46	corp	A. Shuman & Co.
+98	46	corp	A. Shumman & Co.
+99	47	corp	A. Vogeler & Co.
+100	47	corp	A. Vogeler Company
+101	48	corp	A.A. Jones & Shipman, Ltd.
+102	48	corp	A.A. Jones & Shipman
+103	49	corp	A.A. Low & Bros.
+104	49	corp	A.A. Low and Brother
+105	50	corp	A.B. Leach & Co.
+106	50	corp	A.B. Leach and Company
+107	51	corp	A.B. Manufacturing Co.
+108	51	corp	A.B. Manufacturing Company
+109	52	corp	A.B.S. (Firm)
+110	52	corp	A.B.S. (Manufacturing Co.)
+111	53	corp	A.C. McClurg & Co.
+112	53	corp	A.C. McClurg & Company
+113	54	corp	A.D. Peters & Co., Literary Agents
+114	54	corp	A.D. Peters (Firm)
+115	54	corp	A.D. Peters, Ltd.
+116	55	corp	A.F. Fletcher & Company (Alpena, Mich.)
+117	55	corp	A.F. Fletcher and company (Alpena, Mich.)
+118	56	corp	A.F. Harvey (Freighter : 1903)
+119	56	corp	A.F. Harvey (Ship)
+120	57	corp	A.G. Edwards & Sons
+121	57	corp	A.G. Edwards (Firm)
+122	58	corp	A.G. Spalding & Bros.
+123	58	corp	A.G. Spalding and Bros.
+124	59	corp	A.H. Abbott & Co.
+125	59	corp	A.H. Abbott and Company (Chicago, Ill.)
+126	60	corp	A.H. Bickmore & Co.
+127	60	corp	A.H. Bickmore & Company
+128	61	corp	A.H. Ferbert (Freighter : 1903)
+129	61	corp	A.H. Ferbert (Ship)
+130	62	corp	A.H. Nilson Machine Co.
+131	62	corp	A.H. Nilson Machine Company
+132	63	corp	A.I. Root (Firm)
+133	63	corp	A.I. Root Company of California
+134	63	corp	A.I. Root Company
+135	64	corp	A.I.R. Gallery (New York, N.Y.)
+136	64	corp	A.I.R. Gallery (New York, N.Y.)
+137	65	corp	A.J. Lindemann & Hoverson & Co.
+138	65	corp	A.J. Lindemann & Hoverson Co.
+139	66	corp	A.L.Hernstein & Co.
+140	66	corp	A.L. Hernstein (Firm)
+141	67	corp	A.L. Scovill & Co.
+142	67	corp	A.L. Scoville & Co.
+143	68	corp	A.M. Byers Company (Pittsburgh, Pa.)
+144	68	corp	A.M. Byers Company
+145	69	corp	A.M. Collins Manufacturing Co.
+146	69	corp	A.M. Collins Manufacturing Company
+147	70	corp	A.M. Donaldson & Company (Denver, Colo.)
+148	70	corp	A.M. Donaldson and Company (Denver, Colo.)
+149	71	corp	A.M. Holter and Brother (Helena, Mont.)
+150	71	corp	A.M. Holter Hardware Co.
+151	71	corp	A.M. Holter Hardware Company (Helena, Mont.)
+152	72	corp	A.M. Strauss & Associates
+153	72	corp	A.M. Strauss, Inc.
+154	73	corp	A.N. Marquis & Company
+155	73	corp	A.N. Marquis Company
+156	74	corp	A.O. Smith Corp.
+157	74	corp	A.O. Smith Corporation (Milwaukee, Wis.)
+158	74	corp	A.O. Smith Corporation
+159	75	corp	A.P. Watt (Firm)
+160	75	corp	A.P. Watt and Son
+161	75	corp	A.P. Watt Ltd.
+162	76	corp	A.R. Seger Trucking Company
+163	76	corp	A.R. Seger Trucking Company
+164	77	corp	A.R. Williams Machinery Co.
+165	77	corp	A.R. Williams Machinery Company
+166	78	corp	A.S. Aloe Co.
+167	78	corp	A.S. Aloe Company
+168	79	corp	A.S. Barnes & Co.
+169	79	corp	A.S. Barnes & Company
+170	80	corp	A.T. Lawson (Ship)
+171	80	corp	A.T. Lawson (Steamboat : 1909)
+172	81	corp	A.T. Lewis & Son Dry Goods Co.
+173	81	corp	A.T. Lewis and Son's Dry Goods Store (Denver, Colo.)
+174	82	corp	A.T. Stearns Lumber Co.
+175	82	corp	A.T. Stearns Lumber Company
+176	83	corp	A.T. Stewart & Co.
+177	83	corp	A.T. Stewart & Co. (New York, N.Y.)
+178	84	corp	A.Y. McDonald & Morrison Manufacturing Co.
+179	84	corp	A.Y. McDonald Co.
+180	84	corp	A.Y. McDonald Mfg. Co.
+181	85	pers	Aachen, Hans von
+182	85	pers	Aachen, Hans von, 1552-1615
+183	86	pers	Aakhus, Michael K.
+184	86	pers	Aakhus, Michael
+185	87	pers	Aalto, Elissa, 1923-1994
+186	87	pers	Aalto, Elissa [active 1961- active 1966]
+187	88	pers	Aaltonen, Waino Waldemar
+188	88	pers	Aaltonen, Wäinö Waldemar, 1894-1966
+189	89	pers	Aandahl, Fred George, 1897-1966
+190	89	pers	Aandahl, Fred, 1897-1966
+191	90	corp	Aaron Haas Son and Howell Co. (Altanta, Ga.)
+192	90	corp	Aaron Haas Son and Howell Company (Atlanta, Ga.)
+193	91	pers	Aaron, Benjamin L.
+194	91	pers	Aaron, Benjamin
+195	92	pers	Aaron, Charles D.
+196	92	pers	Aaron, Charles
+197	93	pers	Aaron, Jesse
+198	93	pers	Aaron, Jesse J.
+199	94	pers	Aaron, John, 1942-
+200	94	pers	Aaron, John
+201	95	pers	Aaron, Louis I. (Louis Israel), 1840-1919
+202	95	pers	Aaron, Louis Israel, 1840-1920
+203	96	pers	Aaron, Pietro, 1480-1545
+204	96	pers	Aaron, Pietro [active 1490 – active 1545]
+205	97	pers	Aarons, Charles L. (Charles Lehman), 1872-1952
+206	97	pers	Aarons, Charles, 1872-1952
+207	98	pers	Aarons, George Manuel, 1896-1980
+208	98	pers	Aarons, George, 1896-
+209	99	pers	Aasgaard, J.A., 1876-1966
+210	99	pers	Aasgaard, Johan Arndt
+211	100	pers	Abad de Santillan, Diego, 1897-
+212	100	pers	Abad de Santillán, Diego
+213	101	pers	Abad, Antoni, 1956-
+214	101	pers	Abad, Antoni
+215	102	pers	Abad, Francesc
+216	102	pers	Abad, Francesco
+217	103	pers	Abajian, Elizabeth Engelhardt, 1891-
+218	103	pers	Abajian, Elizabeth
+219	104	pers	Abakanowicz, Magdalena, 1930-
+220	104	pers	Abakanowicz, Magdalena
+221	105	pers	Aballi, Ignasi, 1958-
+222	105	pers	Aballi, Ignasi
+223	106	corp	Abar TV Cable Company of Eugene (Or.)
+224	106	corp	Abar TV Cable Company
+225	107	pers	Abarca, Antonio de.
+226	107	pers	Abarca, Antonio
+227	108	pers	Abarca, Joaquin, 1780-1944
+228	108	pers	Abarca, Joaquin, Bishop of Léon
+229	109	pers	Abarca, Paulina B.
+230	109	pers	Abarca, Paulina
+231	110	pers	Abascal y Sousa, José Fernando de, 1743-1821
+232	110	pers	Abascal y Sousa, José Fernando, Marquis de la Concordia, 1843-1821
+233	110	pers	Abascal y Sousa, José Fernando de
+234	111	pers	Abba, Marta, 1907-
+235	111	pers	Abba, Marta
+236	112	pers	Abbado, Claudio, 1933-
+237	112	pers	Abbado, Claudio
+238	113	pers	Abbasi, Feroz Ali
+239	113	pers	Abbasi, Feroz Ali, 1979-
+240	114	pers	Abbate, P.S.
+241	114	pers	Abbate, Paolo S., 1884-1973
+242	115	pers	Abbe, Don
+243	115	pers	Abbe, Donald R. (1949-)
+244	116	pers	Abbe, Dorothy, 1909-1999
+245	116	pers	Abbe, Dorothy
+246	117	pers	Abbe, Ernst C. (Ernst Cleveland), 1905-2000
+247	117	pers	Abbe Ernst Cleveland
+248	118	pers	Abbe, Robert Waldo, 1851-1928
+249	118	pers	Abbe, Robert, 1851-1928
+250	119	pers	Abbé, William P.
+251	119	pers	Abbe, William P., 1916-
+252	119	pers	Abbe, William P., d. 1983
+253	120	pers	Abbey, Henry E. (Henry Eugene), 1846-1896
+254	120	pers	Abbey, Henry Eugene, 1846-1896
+255	121	corp	Abbo-Craft Co.
+256	121	corp	Abbo-Craft Company
+257	122	corp	Abbot Academy (Andover, Mass.)
+258	122	corp	Abbot Academy
+259	123	pers	Abbot, C.G. (Charles Greeley), 1872-1973
+260	123	pers	Abbot, C.G., 1872-1973
+261	124	pers	Abbot, Edith Doane (Brown), 1887-1978
+262	124	pers	Abbot, Edith
+263	125	pers	Abbot, George Jacob, 1812-1879
+264	125	pers	Abbot, Goerge Jacob, fl. 1860-1870
+265	126	pers	Abbot, Henry, lord of Washfield, fl. 1290-1294
+266	126	pers	Abbot, Henry, lord of Washfield, fl. 1290-1304
+267	126	pers	Abbot, Henry, lord of Washfield, fl. 1290-1304
+268	127	pers	Abbot, Jos. Hale (Joseph Hale), 1802-1873
+269	127	pers	Abbot, Joseph Hale, 1802-1873
+270	128	pers	Abbot, Scaisbrooke, L., 1908-
+271	128	pers	Abbot, Scaisbrooke, Langhorne, 1908-1985
+272	129	corp	Abbot-Downing Company (Concord, N.H.)
+273	129	corp	Abbot-Downing Truck & Body Company (Concord, N.H.)
+274	130	corp	Abbot Alkaloidal Co.
+275	130	corp	Abbot Alkaloidal Company
+276	131	corp	Abbott Laboratories (Firm)
+277	131	corp	Abbott Laboratories
+278	132	pers	Abbott, Ade
+279	132	pers	Abbott, Adelbert C.
+280	133	pers	Abbott, C.R.
+281	133	pers	Abbott, C.R., fl 1835 
+282	134	pers	Abbott, Ebenezer Tilden, 1808-1888
+283	134	pers	Abbott, Ebenezer, 1808-1888
+284	135	pers	Abbott, Edward Gardner, 1840-1862
+285	135	pers	Abbott, Edward Gardner, ca. 1841-1862
+286	136	pers	Abbott, Fletcher Morton, 1843-
+287	136	pers	Abbott, Fletcher Morton, b. 1843
+288	137	pers	Abbott, George, fl. 1903
+289	137	pers	Abbott, George, fl. 1903, Correspondent
+290	138	pers	Abbott, Ira H. [corporate body]
+291	138	pers	Abbott, Ira H. [person]
+292	139	pers	Abbott, J.P. (Joseph Palmer)
+293	139	pers	Abbott, J.P. (Joseph Palmer), 1842-1901
+294	140	pers	Abbott, James B.
+295	140	pers	Abbott, James B., fl. 1854-1855
+296	141	pers	Abbott, John S.C. (John Stevens Cabot), 1805-1877
+297	141	pers	Abbott, John S.C. q(John Stevens Cabot), 1805-1877
+298	143	pers	Abbott, John Stephen Cabaot, 1805-1877
+299	143	pers	Abbott, John Stevens Cabet, 1805-1877
+300	144	pers	Abbott, Joseph C., 1825-1881
+301	144	pers	Abbott, Joseph Carter, 1825-1881
+302	144	pers	Abbott, Joseph Carter, 1825-1882 
+303	145	pers	Abbott, Lawrence F. (Lawrence Fraser), 1859-1933
+304	145	pers	Abbott, Lawrence Fraser, 1859-
+305	146	pers	Abbott, Mary Ogden, 1894-1981
+306	146	pers	Abbott, Mary Ogden, 1895-1981
+307	147	pers	Abbott, Mary Stuart (1967); Mueller, Oscar O., (1877-1964)
+308	147	pers	Abbott, Mary Stuart, d. 1967
+309	148	pers	Abbott, Myron, 1837-
+310	148	pers	Abbott, Myron, 1837-1907
+311	149	pers	Abbott, Patt (Patricia A.), 1941-
+312	149	pers	Abbott, Patt, 1941-
+313	150	pers	Abbott, Robert, 1770-1853
+314	150	pers	Abbott, Robert, 1773-1853
+315	151	pers	Abbott, Samuel [active 1806-active 1818]
+316	151	pers	Abbott, Samuel [active 1800-active 1818]
+317	152	corp	ABC No Rio (New York, N.Y.)
+318	152	corp	ABC No Rio
+319	153	pers	Abd al-Qadir al-Jilani, d. 1166
+320	153	pers	Abd al-Qadir al-Jilani, d. 1166
+321	154	pers	Abdulhamid II, Sultan of the Turks, 1842-1918
+322	154	pers	Abdulhamid, Sultan of Turkey, d1842-1918
+323	155	pers	ABEELE, REMY VAN DEN, 1918-
+324	155	pers	Abeele, Remy van den
+325	156	corp	Abel Porter & Company
+326	156	corp	Abel Porter and Company
+327	157	pers	Abel Smith, Henry Sir, 100-1993
+328	157	pers	Abel Smith, Henry, Sir, 1900-193
+329	158	pers	Abel, I.W. (Iorwith Wilbur), 1908-1987
+330	158	pers	Abel, I.W., 1908-1987
+331	158	pers	Abel, I.W. (Ionwith Wilbur), 1908-1987
+332	159	pers	Abele, Julian Francis, 1881-1950
+333	159	pers	Abele, Julian, 1881-1950
+334	160	pers	Abell, Frank G., 1844-1910
+335	160	pers	Abell, Frank G., 1844-1910 [corporate body]
+336	160	pers	Abell, Frank G., d. 1910
+337	161	pers	Abella, Ramón, 1764-1842
+338	161	pers	Abella, Ramón, d. 1842
+339	162	pers	Abelson, Alter, 1881-
+340	162	pers	Abelson, Alter, b. 1881
+341	163	pers	Abend, George, 1922-
+342	163	pers	Abend, George 1922-1976
+343	164	pers	Aberconway, Christabel Mary Macnaghten McLaren, Baroness, 1890-
+344	164	pers	Aberconway, Christabel Mary Melville Macnachten McLaren, Baroness [active 1901 – active 1974]
+345	165	pers	Abercorn, Anne Jane (Gore) Hamilton, Marchioness of, d. 1827
+346	165	pers	Abercorn, Anne Jane Hamilton, Marchioness of, 1763-1827
+347	166	pers	Abercorn, John James Hamilton, Marquess of, 1756-1818
+348	166	pers	Abercorn, John James Hamilton, Marquess of, 1756-1818
+349	167	pers	Abercrombie, John J. (John Joseph), 1798-1877
+350	167	pers	Abercrombie, John J., 1798-1877
+351	168	pers	Abercrombie, John W. (John William), 1866-1940
+352	168	pers	Abercrombie, John William, 1866-
+353	169	pers	Abercrombie, W.R. (William Ralph), b. 1857
+354	169	pers	Abercrombie, W.R., b. 1857
+355	170	pers	Abercromby, David, d. 1701 or 2
+356	170	pers	Abercromby, David, d. 1701-2?
+357	171	pers	Abercromby, Robert, 1740-1827
+358	171	pers	Abercromby, Robert, Sir, 1740-1827
+359	172	pers	Aberdeen and Temair, Ishbel Gordon, Marchioness of, 1857-1939
+360	172	pers	Aberdeen and Temair,Ishbel Gordon, Marchioness of, 1857-1939
+361	173	pers	Abernethy, J.W. (Julian Willis), 1853-1923
+362	173	pers	Abernethy, J.W., b. 1853
+363	174	pers	Abernethy, M.A. [active 1886 – active 1903]
+364	174	pers	Abernethy, M.A. [active 1886 – active 1903]
+365	175	pers	Abeyta, Narciso, Platera, 1918-
+366	175	pers	Abeyta, Narciso, d. 1998-
+367	176	pers	Abington, Mrs., 1737-1815
+368	176	pers	Abington, Mrs., (Frances Barton), 1737-1815
+369	177	corp	Abner Read (Destroyer)
+370	177	corp	Abner Reed (Destroyer)
+371	178	pers	Abner, B.L. (Benjamin L.), b.1858
+372	178	pers	Abner, B.L. (Benjamin L.), b. 1858-1921
+373	179	pers	Abney, Thomas, d. 1750
+374	179	pers	Abney, Thomas, Sir, d. 1750
+375	180	corp	Abraham Bell & Son (N.Y.)
+376	180	corp	Abraham Bell & Son (New York, N.Y.)
+377	180	corp	Abraham Bell & Son
+378	180	corp	Abraham Bell and Son
+379	181	corp	Abraham Lincoln Center (Chicago, Ill.)
+380	181	corp	Abraham Lincoln Center (Chicago, Ill.)
+381	182	pers	Abraham, George D. (George Dixon), 1872-1965
+382	182	pers	Abraham, George Dixon, 1872-1965
+383	183	pers	Abraham, Mordecai
+384	183	pers	Abraham, Mordecai, 1796-1871
+385	183	pers	Abraham, Mordecai, b. 1796
+386	184	pers	Abrams, Herbert E. [active from 1921]
+387	184	pers	Abrams, Herbert E., 1921-
+388	185	pers	Abrego, José Antonio Maria, 1813-1878
+389	185	pers	Abrego, José, 1813-1878
+390	185	pers	Abrego, José, d. 1878
+391	186	pers	Abrial, AndrvJoseph, ,Comte, 1750-1828
+392	186	pers	Abrial, Andre Joseph, 1750-1828
+393	187	corp	Abstract and Title Insurance Co. (Los Angeles, Calif.)
+394	187	corp	Abstract and Title Insurance Co. of Los Angeles
+395	187	corp	Abstract and Title Insurance Company of Los Angeles
+396	188	pers	Abts, La Vonne, Sister
+397	188	pers	Abts, La Vonne, Sister, F.S.P.A.
+398	188	pers	Abts, M. LaVonne, Sister, F.S.P.A.
+399	189	pers	Abu Hanifah, d. 767 or 8
+400	189	pers	Abu Hanifah [active to 767]
+401	190	corp	Abyssinia (Ship)
+402	190	corp	Abyssinia (Steam ship)
+403	190	corp	Abyssinia (Steamship)
+404	191	corp	Academy of Stomatology (Philadelphia, Pa.)
+405	191	corp	Academy of Stomatology of Philadelphia (Pa.)
+406	192	corp	Account Book.   [all corporate bodies]
+407	192	corp	Account Books.
+408	192	corp	Account Journal
+409	192	corp	Accounts
+410	193	pers	Accum, Friedrich Christian, 1769-1838
+411	193	pers	Accum, Friedrick Christian, 1769-1838
+412	194	pers	Achebe, Chinau
+413	194	pers	Achebe, Chinua
+414	195	pers	Acheson, Alexander W., 1824-1934
+415	195	pers	Acheson, Alexander Wilson, 1842-1934
+416	196	pers	Acheson, Dean (1893-1971) [corporate body]
+417	196	pers	Acheson, Dean G., 1893-1971
+418	197	pers	Acker, William H.
+419	197	pers	Acker, William H. (William Acker), 1833-1862
+420	197	pers	Acker, William H. (William Henry), 1833-1862
+421	197	pers	Acker, William H., 1833-1862
+422	198	pers	Ackerman, Gertrude W. (Gertrude Wilhelmine)
+423	198	pers	Ackerman, Gertrude Wilhelmina
+424	198	pers	Ackerman, Gertrude Wilhelmine
+425	199	pers	Ackland, William Hayes, 1855-1940
+426	199	pers	Ackland, William Hayes, 1885-1940
+427	200	pers	Acland, Christian Henrietta Caroline, Lady, 1750-1815
+428	200	pers	Acland, Christian Harriet Caroline Fox, Lady, 1750-1815
+429	201	pers	Acland, Henry W. (Henry Wentworth), 1815-1900
+430	201	pers	Acland, Henry Wentworth Dyke, Sir, 1815-1900
+431	202	pers	Acland, John Dyke, d. 1778
+432	202	pers	Acland, John Dyke, d.1778
+433	202	pers	Acland, John Dykes, d. 1778
+434	203	corp	Acme Cement Plaster Co.
+435	203	corp	Acme Cement Plaster Company
+436	204	corp	Acme Commercial Studio (Portland, Or.) [person]
+437	204	corp	Acme Commercial Studio (Portland, Or.)
+438	205	corp	Acme White Lead & Color Works.
+439	205	corp	Acme White Lead and Color Works
+440	206	corp	Acme-Danneman Company, Inc.
+441	206	corp	Acme-Danneman Company
+442	207	corp	Acosta Saignes, Miguel
+443	207	pers	Acosta, Saignes, Miguel
+444	208	pers	Acosta, Jose
+445	208	pers	Acosta, José de, ca. 1539-1600
+446	209	corp	Acoustiguide (Firm)
+447	209	corp	Acoustiguide (Firm) [person]
+448	210	pers	Acree, Walter U. (Walter Upson),b. 1860
+449	210	pers	Acree, Walter U. (Walter Upson), b.1860 
+450	211	pers	Acrill, William, d. 1738
+451	211	pers	Acrill, William, d.1738 
+452	212	pers	Acunã, Rodolfo F., 1932-
+453	212	pers	Acunã, Rudolfo F., 1932-
+454	213	corp	Ad Hoc Committee on the Human Rights and Genocide Treaties [person]
+455	213	corp	Ad Hoc Committee on the Human Rights and Genocide Treaties
+456	214	corp	Adair Realty Company (Atlanta, Ga.)
+457	214	corp	Adair Realty and Loan Co. (Atlanta, Ga.)
+458	214	corp	Adair Realty and Loan Company (Atlanta, Ga.)
+459	215	pers	Adair, Cornelia W. (Cornelia Wadsworth), 1839-1921
+460	215	pers	Adair, Cornelia [Wadsworth], d. 1922
+461	216	pers	Adair, Douglass
+462	216	pers	Adair, Douglass
+463	216	pers	Adair, Douglass
+464	217	pers	Adair, John L. (John Lynch), 1828-1896
+465	217	pers	Adair, John L., 1828-1896
+466	218	pers	Adam Smith, Patsy, 1926-
+467	218	pers	Adam Smith, Patsy, 1926-2001
+468	219	pers	Adam, Marie – Christine, 19..-….actrice. [from 0019] [28 records]
+469	220	pers	Adam, R.B. (Robert Borthwick), 1863-1940
+470	220	pers	Adam, R.B., 1863-1940
+471	221	pers	Adam, Robert B. (Robert Borthwick), 1833-1904
+472	221	pers	Adam, Robert B., 1833-1904
+473	222	corp	Adams & Westlake Co.
+474	222	corp	Adams & Westlake Company
+475	222	corp	Adams and Westlake Co.
+476	222	corp	Adams & Westlake Mfg. Co. [active 1857 – active 1947]
+477	222	corp	Adams and Westlake Manufacturing Company (Chicago, Ill..) [active 1875 – active 1881]
+478	223	corp	Adams County (Wis.). Clerk [person]
+479	223	corp	Adams County (Wis.). Clerk
+480	224	corp	Adams County (Wis.). Treasurer [person]
+481	224	corp	Adams county (Wis.). Treasurer
+482	225	fami	Adams family. [133 records]
+483	225	fami	Adams Family [6 records]
+484	226	corp	Adams Nickel Plating & Manufacturing Co.
+485	226	corp	Adams Nickel Plating and Manufacturing Company
+486	227	pers	Adams, A.O., fl. 1842-1876
+487	227	pers	Adams, A.O., fl. 1842
+488	228	pers	Adams, Abijah [active 1887 – active 1890]
+489	228	pers	Adams, Abijah [active 1887 – active 1897]
+490	229	pers	Adams, Adam Gillespie, 1887-
+491	229	pers	Adams, Adam Gillespie, 1887-1976
+492	230	pers	Adams, Alfred [active 1862 – active 1864]
+493	230	pers	Adams, Alfred [active 1862 – active 1864]
+494	231	pers	Adams, Amelia Wyllys, 1796-1859
+495	231	pers	Adams, Amelia Wyllys, b. 1786
+496	232	pers	Adams, Arthur S. (Arthur Santon), 1896-1980
+497	232	pers	Adams, Arthur S. (Arthur Stanton), 1896-1980 
+498	233	pers	Adams, B.M. (Barzillai M.), 1817-1901
+499	233	pers	Adams, B.M., 1817-
+500	234	pers	Adams, Bobby Neal
+501	234	pers	Adams, Bobby Neel, 1953-
+502	234	pers	Adams, Bobby Neel
+503	235	pers	Adams, Charles C. (Charles Christopher), 1873-1955
+504	235	pers	Adams, Charles C., 1873-1955
+505	236	pers	Adams, Charles F. [active 1963- active 1972]
+506	236	pers	Adams, Charles F. [active 1946 – active 1978]
+507	237	pers	Adams, Charles K.
+508	237	pers	Adams, Charles Kendall, 1835-1902
+509	238	pers	Adams, Charles Partridge, 1858-1942
+510	238	pers	Adams, Charles Partridge, d. 1942
+511	239	pers	Adams, Charles S. 
+512	239	pers	Adams, Charles S. (Charles Shaw), 1797-1873
+513	239	pers	Adams, Charles S., fl. 1868
+514	240	pers	Adams, Charles Wilson, 1828-1917
+515	240	pers	Adams Charles Wilson
+516	241	pers	Adams, Charles [active 1863 – active 1890]
+517	241	pers	Adams, Charles
+518	241	pers	Adams, Charles [active 1856 – active 1871]
+519	242	pers	Adams, Cicero
+520	242	pers	Adams, Cicero, d. 1868
+521	243	pers	Adams, Clarence Raymond, 1898-1965
+522	243	pers	Adams, Clarence Raymond
+523	244	pers	Adams, Comfort Avery, 1816-1901
+524	244	pers	Adams, Comfort Avery, b. 1818
+525	245	pers	Adams, Corinne Lanier, 1915-1967
+526	245	pers	Adams, Corinne Lanier, 915-1967
+527	246	pers	Adams, Daniel, 1773-1863
+528	246	pers	Adams, Daniel, 1773-1864
+529	247	pers	Adams, David Barclay, 1814-1881
+530	247	pers	Adams, David Barclay, d. 1814-1881
+531	247	pers	Adams, David Barclay, d. 1881
+532	248	pers	Adams, Edward Francis, 1839-1929
+533	248	pers	Adams, Edward Francis, 1839-1939
+534	249	pers	Adams, Edward Thomas, 1860-
+535	249	pers	Adams, Edward Thomas, b. 1860
+536	250	pers	Adams, Edwin P. (Edward Plimpton),  . 1878.
+537	250	pers	Adams, Edwin P. (Edward Plimpton), b. 1878
+538	251	pers	Adams, Elmer B. (Elmer Bragg), 1842-1916
+539	251	pers	Adams, Elmer B., 1842-1916
+540	252	pers	Adams, Elmer E. (Elmer Ellsworth), 1861-1950
+541	252	pers	Adams, Elmer E., 1861-1950
+542	252	pers	Adams, Elmer Ellsworth, 1861-
+543	253	pers	Adams, Evangeline Smith, 1872? – 1832
+544	253	pers	Adams, Evangeline Smith, 1872? – 1955
+545	254	pers	Adams, F.A. [active 1811- active 1851]
+546	254	pers	Adams, F.A. (Frederick A.), 1807-1888
+547	255	pers	Adams, Francis Crowinshield
+548	255	pers	Adams, Francis Croninshield, 1839-1911
+549	256	pers	Adams, George C., 1863-1900
+550	256	pers	Adams, George Caspar, 1863-1900
+551	257	pers	Adams, George E. (George Everett), 1840-1917
+552	257	pers	Adams, George E., 1840-1917
+553	257	pers	Adams, George E., 1848-1917
+554	258	pers	Adams, George S., 1832-
+555	258	pers	Adams, George S., 1832-1904
+556	259	pers	Adams, Gilmer Speed, 1854-
+557	259	pers	Adams, Gilmer Speed, 1854- ca. 1922
+558	259	pers	Adams, Gilmer Speed, b. 1854
+559	259	pers	Adams, Gilmer Speed 
+560	260	pers	Adams, Glen Cameron [active 1978 – active 1990]
+561	260	pers	Adams, Glen Cameron [active 1894 – active 1986]
+562	261	pers	Adams, Harriet Stratemeyer, 1892-1982
+563	261	pers	Adams, Harriet Stratemeyer [active 1832 – active 1984]
+564	261	pers	Adams, Harriet Stratemeyer [active 1883 – active 1966]
+565	262	pers	Adams, J. Otis (John Ottis), 1851-1927
+566	262	pers	Adams, J. Ottis (John Ottis), 1851-1927
+567	263	pers	Adams, John G. (John Greenleaf), 1810-1887
+568	263	pers	Adams, John Greenleaf, 1810-1887
+569	264	pers	Adams, John Quincy, 1767-1848 [corporate body]
+570	264	pers	Adams, John Quincy, 1767-1848
+571	264	pers	Adams, John Quincy, 1787-1848
+572	264	pers	Adams, John Quincy, 1797-1848
+573	265	pers	Adams, John, 1735-1826
+574	265	pers	Adams, John, 1735-1862
+575	265	pers	Adams, John, d1735-1826
+576	266	pers	Adams, Katharine, 1862-1952
+577	266	pers	Adams, Katharine
+578	266	pers	Adams, Katharine T., 1862-1952
+579	267	pers	Adams, Kenneth Stanley, 1899-
+580	267	pers	Adams, Kenneth Stanley, b. 1899
+581	268	pers	Adams, Lucian B., 1816-1882
+582	268	pers	Adams, Lucian B., d. 1882
+583	269	pers	Adams, Margaret Crawford Johnson, 1830-1909
+584	269	pers	Adams, Margaret Crawford
+585	270	pers	Adams, Moses N. (Moses Newton), 1822-1902
+586	270	pers	Adams, Moses N., 1822-1902
+587	271	pers	Adams, Moses, 1803-
+588	271	pers	Adams, Moses, 1803-1837
+589	272	pers	Adams, Paul L. (Paul Lincoln), 1908-
+590	272	pers	Adams, Paul L., 1908-
+591	272	pers	Adams, Paul Lincoln
+592	273	pers	Adams, Robert Morford, d. 1972
+593	273	pers	Adams, Robert Morford, d.1972
+594	273	pers	Adams, Robert Morford
+595	274	pers	Adams, Roscoe S.
+596	274	pers	Adams, Rosooe S.
+597	275	pers	Adams, Roswell, b. ca. 1783
+598	275	pers	Adams, Roswell
+599	276	pers	Adams, Samuel B. 1853-1938
+600	276	pers	Adams, Samuel Barnard, 1853-1938
+601	277	pers	Adams, Sherman W. (Sherman Walcott), 1836-1898
+602	277	pers	Adams, Sherman W., 1836-1898
+603	277	pers	Adams, Sherman W., 1836-1898
+604	277	pers	Adams, Sherman Walcott, 1838-1898
+605	278	pers	Adams, Tabitha Cocke, 1698-1770
+606	278	pers	Adams, Tabitha Cocke
+607	279	pers	Adams, Thomas Boylston, 1722-1832
+608	279	pers	Adams, Thomas Boylston, 1772-1832
+609	280	pers	Adams, Thomas Boylston, 1910-1997
+610	280	pers	Adams, Thomas Boylston, b. 1910
+611	281	pers	Adams, W. Carson (William Carson), b. 1880
+612	281	pers	Adams, W. Carson, b. 1880
+613	282	pers	Adams, W.L. (William Lysander), 1821-1906
+614	282	pers	Adams, W.L. (William Lysander), 1821-1918
+615	283	pers	Adams, Walter S. (Walter Sydney), 1876-1956
+616	283	pers	Adams, Walter S., 1876-1956
+617	284	pers	Adams, William C. [active 1829 – active 1863]
+618	284	pers	Adams, William C. [active 1829 – active 1863]
+619	285	pers	Adams, William H., 1861-
+620	285	pers	Adams, William H., 1861-1954
+621	285	pers	Adams, William H., 1862-1954
+622	286	pers	Adams, William Henry, 1844-
+623	286	pers	Adams, William Henry, 1844-
+624	287	pers	Colahan, Charles [active 1826 – active 1935]
+625	287	pers	Colahan, Charles [from 1906]
+626	288	pers	Colamussi, Fabrizio
+627	288	pers	Colamussi, Cabrizio, 1899-1955
+628	289	pers	Colan, Gene, 1926-….
+629	289	pers	Colan, Gene
+630	290	pers	Colan, Lulah Durr, 1947-
+631	290	pers	Colan Lulah Johnston Durr, 1942-
+632	291	pers	Colaneri, John Frank
+633	291	pers	Colaneri, John
+634	292	pers	Colangelo, Renato, 1976-
+635	292	pers	Colangelo, Renato
+636	293	pers	Colbath, Arnold
+637	293	pers	Colbath, James A., b 1889-
+638	294	pers	Colbeck, L. 
+639	294	pers	Colbeck, L. H.
+640	294	pers	Colbeck, L.H.
+641	294	pers	Colbeck, Lloyd
+642	295	pers	Colbert, Edwin H. (Edwin Harris), 1905-2001
+643	295	pers	Colbert, Edwin H., 1905-2001
+644	296	pers	Colbert, F. Overton, 1896-1935
+645	296	pers	Colbert, Frank Overton, 1896-1935
+646	297	pers	Colborn, Gertrude R.
+647	297	pers	Colborn, Gertrude Redfield, 1858-1951
+648	298	pers	Colborne, John, Sir, 1778-1863
+649	298	pers	Colborne, John, Sir, 1st Varon of Seaton, 1778-1863
+650	299	pers	Colburn, A.V. [from 1861 to 1873]
+651	299	pers	Colburn, A.V., fl. 1861
+652	299	pers	Colburn, A
+653	299	pers	Colburn, A.V. [from 1861 to 1863]
+654	300	pers	Colburn, Charles E.
+655	300	pers	Colburn, Charles Edward
+656	301	pers	Colburn, Ella James, d. 1964
+657	301	pers	Colburn, Ellas James, d, 1964
+658	302	pers	Colburn, Helen F.
+659	302	pers	Colburn, Helen Frances
+660	303	pers	Colby, Elbridge, 1891-1982
+661	303	pers	Colby, Elbridge, 1891-
+662	304	pers	Colby, Eugene C. [from 1892 to 1902]
+663	304	pers	Colby, Eugene C. [from 1846 to 1930]
+664	305	pers	Colby, James L. (James Lloyd), 1823-1887
+665	305	pers	Colby, James L., ca., 1825-
+666	306	pers	Colby, Joseph M.
+667	306	pers	Colby, Joseph M. (Joseph Milton)
+668	307	corp	Colby-Sawyer College (New London, N.H.)
+669	307	corp	Colby-Sawyer College
+670	308	corp	Colchester Baptist Church (Scott Hill, Conn.)
+671	308	corp	Colchester Baptist Church (Scott Hill, Connecticut)
+672	309	pers	Colcord, Joanna C. (Joanna Carver), 1882-1960
+673	309	pers	Colcord, Joanna C., 1882-1960
+674	310	corp	Cold Spring Granite Company (Cold Spring, Minn.)
+675	310	corp	Cold Spring Granite Company
+676	311	corp	Cold Spring Whaling Co.
+677	311	corp	Cold Spring Whaling Company
+678	312	pers	Colden, Cadwallader
+679	312	pers	Colden, Cadwallader D. (Cadwallader David), 1769-1834
+680	313	pers	Colden, Cadwallader, 1688-1752
+681	313	pers	Colden, Cadwallader, 1688-1776
+682	314	corp	Coldwater Baptist Church (Collierville, Tenn.)
+683	314	corp	Coldwater Baptist Church (Collierville, Tennessee)
+684	315	corp	Coldwater Copper Mining Company (Wyo.)
+685	315	corp	Coldwater Copper Mining Company
+686	316	corp	Coldwater Regional Center for Development Disabilities (Cold…)
+687	316	corp	Coldwater Regional Center for Development Disabilities (Mich.)
+688	317	corp	Coldwell Lawn Motor Co.
+689	317	corp	Coldwell Lawn Motor Company
+690	318	pers	Coldwell, Joseph Maurice, 1869-1940
+691	318	pers	Coldwell, Joseph Maurice, 1869-1949
+692	319	corp	Cole Bros. & Scott Men's Wear, (Guelph, Ont.)
+693	319	corp	Cole Bros. & Scott's Men's Wear (Guelph, Ont.)
+694	319	corp	Col Bros. and Scott Men's Wear (Guelph, Ont.)
+695	320	corp	Cole Street Equipment Co., Inc. (New York)
+696	320	corp	Cole Street Equipment Company (New York, N.Y.)
+697	321	corp	Cole's Book Arcade (Melbourne, Vic.)
+698	321	corp	Cole's Book Arcade
+699	322	pers	Cole, Alfred D., 1861-1924
+700	322	pers	Cole, Alfred D., 1861-1928 
+701	323	pers	Cole, Alfred S., 1893-1977
+702	323	pers	Cole, Alfred Storer, 1893-1977
+703	324	pers	Cole, Ashley T.
+704	324	pers	Cole, Ashley T., 1876-1964
+705	324	pers	Cole, Ashley T., 1876-1965
+706	325	pers	Cole, C.C.
+707	325	pers	Cole, C.C. (Chester Cicero), 1824-1913
+708	326	pers	Cole, Caleb
+709	326	pers	Cole, Caleb, 1797-1879
+710	327	pers	Cole, Darius, Captain
+711	327	pers	Cole, Darius
+712	328	pers	Cole, David L., 1902-1978
+713	328	pers	Cole, David L. (David Lawrence), 1902-1978
+714	328	pers	Cole, David Lawrence, 1902-1977
+715	329	pers	Cole, David, 1939-
+716	329	pers	Cole, David, 1939-2000
+717	330	pers	Cole, Fred Carrington, 1912-
+718	330	pers	Cole, Fred Carrington, 1912-1986
+719	331	pers	Cole, G. D. H. (George Douglas Howard), 1889-1959
+720	331	pers	Cole, G.D.H. (George Douglas Howard), 1889-1959
+721	332	pers	Cole, Harmon O.
+722	332	pers	Cole, Harmond O.
+723	333	pers	Cole, James Barnet, 1796-1857
+724	333	pers	Cole, James Barnet
+725	334	pers	Cole, James M.
+726	334	pers	Cole, James M., b. 1845 
+727	335	pers	Cole, James Reid, 1839-1917
+728	335	pers	Cole, James Reid, b. 1839
+729	336	pers	Cole, Jessie Duncan Savage, 1858-1940
+730	336	pers	Cole, Jessie Duncan Savage
+731	337	pers	Cole, John, landowner
+732	337	pers	Cole, John, Manhattan property owner
+733	338	pers	Cole, Lawrence Wooster, 1870-
+734	338	pers	Cole, Lawrence Wooster, 1870-1946
+735	339	pers	Cole, Leon J.
+736	339	pers	Cole, Leon J., 1877-
+737	339	pers	Cole, Leon Jacob, 1877-
+738	340	pers	Cole, Margaret
+739	340	pers	Cole, Margaret, 1893-1980
+740	341	pers	Cole, Moroni, 1833-
+741	341	pers	Cole, Moroni, 1833-1908
+742	342	pers	Cole, Norman M. (Norman Monroe), 1933-1997
+743	342	pers	Cole, Norman M., 1933-
+744	343	pers	Cole, Orlando, 1908-
+745	343	pers	Cole, Orlando
+746	344	pers	Cole, Phillip G. [active 1886 – active 1933]
+747	344	pers	Cole, Phillip G. (Phillip Gillett), b. 1883
+748	344	pers	Cole, Philip Gillett
+749	345	pers	Cole, R. Beverly (Richard Beverly), 1829-1901
+750	345	pers	Cole, R. Beverly, b. 1829
+751	345	pers	Cole, Richard Beverley, 1829-1901
+752	345	pers	Cole, Richard Beverly, 1829-1901
+753	346	pers	Cole, R.H. (Robert Hugh), 1913-
+754	346	pers	Cole, R.H. (Robert Hugh), 1914-1990
+755	347	pers	Cole, Redmond S. (Redmond Selecman), 1881-1959
+756	347	pers	Cole, Redmond Selecman
+757	348	pers	Cole, Robert Ambrose, 1954-1994
+758	348	pers	Cole, Robert Ambrose, 1959-1994
+759	349	pers	Cole, Rossetter G. (Rossetter Gleason), 1866-1952
+760	349	pers	Cole, Rossetter G., 1866-1952
+761	350	pers	Cole, Rufus Ivory, 1872-1952
+762	350	pers	Cole, Rufus Ivory, 1872-1966
+763	350	pers	Cole, Rufus Ivory
+764	351	pers	Cole, Russell
+765	351	pers	Cole, Russell, 1942-
+766	351	pers	Cole, Russell, 1942-1997
+767	352	pers	Cole, Stephanie Kirachen
+768	352	pers	Cole, Stephanie Kirschen
+769	353	pers	Cole, Thomas Casilear, 1888-
+770	353	pers	Cole, Thomas Casilear, 1888-1976
+771	354	pers	Cole, Thoams, fl. 1777-1778
+772	354	pers	Cole, Thomas, fl. 1786
+773	355	corp	Gleaner (Brig)
+774	355	corp	Gleaner (Ship)
+775	356	pers	Gleason, Gerald T., 1927-
+776	356	pers	Gleason, Gerald, 1927-
+777	357	pers	Gleason, Ida Riner, 1883-1964
+778	357	pers	Gleason, Ida Riner
+779	358	pers	Gleason, Lafayette B. (Lafayette Blanchard), 1863-1937
+780	358	pers	Gleason, Lafayette Blanchard, 1863-
+781	358	pers	Gleason, Lafayette Blanchard
+782	359	pers	Gleason, Lulie Wadsworth Rounds, d. 1934
+783	359	pers	Gleason, Lulie Wadsworth
+784	360	pers	Gleason, Martin, ca. 1893-
+785	360	pers	Gleason, Martin, ca. 1893.
+786	361	pers	Gleason, Mattie, ca, 1870-
+787	361	pers	Gleason, Mattie, ca. 1870.
+788	362	pers	Gleason, Maurice Ford, ca. 1901-
+789	362	pers	Gleason, Maurice Ford, ca. 1901.
+790	363	pers	Gleason, Rosetter, 1789-1870
+791	363	pers	Gleason, Rosseter, fl. 1808-1810
+792	363	pers	Gleason, Rossiter
+793	364	pers	Gleason, William H., d. ca. 1899.
+794	364	pers	Gleason William Henry, 1829-1902
+795	365	pers	Gleitsmann, Raphael, 1910-
+796	365	pers	GLEITSMAN, RAPHAEL
+797	366	pers	Glembourtt, Martin J.
+798	366	pers	Glembourtt, Martin [active 1937 – active 1983]
+799	366	pers	Glembourtt, Martin
+800	367	pers	Glemnitz, Hermann, 1899-?
+801	367	pers	Glemnitz, Hermann
+802	368	corp	Glen Alden Coal Company
+803	368	corp	Glen Alden Coal Corp.
+804	369	corp	Glen Cover Mutual Fire Insurance Company
+805	369	corp	Glen Cover Mutual Insurance Company
+806	370	pers	Glen H. Huntington (Architect)
+807	370	pers	Glen H. Huntington (Boulder, Colo.) (Architect)
+808	370	pers	Glen H. Huntington (Boulder Colo.) [person]
+809	370	pers	Glen H. Huntington (Boulder, Colo.)
+810	370	pers	Glen H. Huntington
+811	371	corp	Glen Lake Sanatorium (Minn.)
+812	371	corp	Glen Lake State Sanatorium (Minn.)
+813	371	corp	Glen Lake State Sanatorium (Minnetonka, Minn.)
+814	372	corp	Glen Mills School (Philadelphia, Pa.)
+815	372	corp	Glen Mills School
+816	373	corp	Glen's Camera and Hallmark Shop (Boulder, Colo.)
+817	373	corp	Glen's Camera Shop (Boulder, Colo.)
+818	374	pers	Glenavy, Beatrice Moss Campbell, Baroness, 1883-1970
+819	374	pers	Glenavy, Beatrice Moss Elvery Campbell, Baroness [active 1910 – active 1977]
+820	375	corp	Glencoe Baptist Church (Glencoe, Kentucky)
+821	375	corp	Glencoe Baptist Church (Glencoe, Ky)
+822	376	corp	Glendale Baptist Church (Nashville, Tenn.)
+823	376	corp	Glendale Baptist Church (Nashville, Tennessee)
+824	377	pers	Glenesk, Algernon Borthwick, 1st Baron, 1830-1908
+825	377	pers	Glenesk, Algernon Borthwick, Baron, 1830-1908
+826	378	fami	Glenn family [22 records]
+827	379	corp	Glenifer (Bryn Mawr)
+828	379	corp	Glenifer (Bryn Mawr, Pa.)
+829	380	corp	Glenn Memorial Methodist Church (Atlanta, Ga.)
+830	380	corp	Glenn Memorial Methodist Church (Atlanta,Ga.) [active 1913 – active 1995]
+831	380	corp	Glenn Memorial United Methodist Chruch (Atlanta, Ga.) [active 1913 – active 1995]
+832	381	corp	Glenn Springs Rail Road Company (Glenn Springs, S.C.)
+833	381	corp	Glenn Spring Rail Road Company (S.C.)
+834	382	pers	Glenn, Annie [corporate body] [from 1920-02-17]
+835	382	pers	Glenn, Annie
+836	383	pers	Glenn, Edwin F. (Edwin Forbes), 1857-1926
+837	383	pers	Glenn, Edwin F., 1857-1926 
+838	384	pers	Glenn, Hugh J. [active 1858 – active 1886]
+839	384	pers	Glenn, Hugh James [active 1824 – active 1883]
+840	385	pers	Glenn, J.B. (John Bowles), 1786-1869
+841	385	pers	Glenn, J.B. (John Bowels), 1786-1969
+842	386	pers	Glenn, John Mark, 1858-
+843	386	pers	Glenn, John Mark, 1858-1896
+844	387	pers	Glenn, William H., 1872-1940
+845	387	pers	Glenn, William Harper, 1871-1940
+846	388	corp	Glenn-Colusa Irrigation District (Calif.)
+847	388	corp	Glenn-Colusa Irrigation District
+848	389	corp	Glenn-Lowry Manufacturing Co. (Whitmire, S.C.)
+849	389	corp	Glenn-Lowry Manufacturing Company (Whitmire, S.C.) [active 1898 – active 1914]
+850	390	corp	Glennifer (Schooner : 1873)
+851	390	corp	Glenniffer (Schooner : 1873)
+852	391	pers	Glennon, John J. (John Joseph), 1862-1946
+853	391	pers	Glennon, John J., 1862-1946
+854	392	corp	Glens Falls Paper Company (South Glens Falls, N.Y.)
+855	392	corp	Glens Falls Paper Mill Company (South Glens Falls, N.Y.)
+856	393	pers	Glenville, Peter, 1913-
+857	393	pers	Glenville, Peter, 1913-1996
+858	394	corp	University Baptist Church (Hyattsville, Maryland)
+859	394	corp	University Baptist Church (Hyattsville, Md.)
+860	395	corp	University Club (New York)
+861	395	corp	University Club (New York, N.Y.)
+862	396	corp	University Club of Evanston (Evanston, Ill.)
+863	396	corp	University Club of Evanston (Ill.)
+864	397	corp	University Club of Hartford (Conn.)
+865	397	corp	University Club of Hartford
+866	398	corp	University Co-operative Company (Madison, Wis.)
+867	398	corp	University Co-operative Company
+868	399	corp	University College of Arts and Pure Science (New York University…
+869	399	corp	University College of Arts and Pure Science (New York University…
+870	400	corp	University High School (Oakland, Calif.)
+871	400	corp	University High School, Oakland
+872	401	corp	University Lutheran Chapel and Student Center (Boulder, Colo.)
+873	401	corp	University Lutheran Chapel. Student Center (Boulder, Colo.)
+874	402	corp	University of Alabama (Tuscaloosa)
+875	402	corp	University of Alabama (Tuscaloosa, Ala.)
+876	403	corp	University of Alabama at Birmingham. Office of the President. 
+877	403	corp	University of Alabama in Birmingham. Office of the President. [active 1969 – active 1976] 
+878	404	corp	University of Alabama at Birmingham. Office of the Vice President for University College [active 1957 – active 1979]
+879	404	corp	University of Alabama in Birmingham. Office of the Vice President for University College  [active 1978 – active 1983]
+880	405	corp	University of Alabama at Birmingham. Office of the Vice President for Health Affairs
+881	405	corp	University of Alabama in Birmingham. Office of the Vice President for Health Affairs [active 1969 – active 1976] 
+882	406	corp	University of Alabama at Birmingham. School of Dentistry
+883	406	corp	University of Alabama at Birmingham. School of Dentsitry
+884	407	corp	University of Alabama in Birimingham
+885	407	corp	University of Alabama in Birmingham
+886	407	corp	University of Alabama in Birmingham (UAB)
+887	408	corp	University of Alabama in Birmingham. School of Dentistry.
+888	408	corp	University of Alabama in Birmingham. School of Dentsitry
+889	409	corp	University of Alabama in Huntsville
+890	409	corp	University of Alabama in Huntsville (UAH) 
+891	410	corp	University of Alaska Anchorage. Justice Center (Criminal Code Revision Project]
+892	410	corp	University of Alaska Anchorage. Justice Center. Criminal Code Revision [active 1971 – active 1978]
+893	411	corp	University of Albuquerque. Theater Department
+894	411	corp	University of Albuquerque. Theater Dept.
+895	412	corp	University of Arizona. Agricultural Extension Service [active 1925 – active 1947]
+896	412	corp	University of Arizona. Agricultural Extention Service
+897	413	corp	University of Arkansas (Fayetteville Campus). College of Agriculture.  
+898	413	corp	University of Arkansas (Fayetteville Campus). College of Agriculture & Home Economics
+899	414	corp	University of Arkansas (Pine Bluff Campus)
+900	414	corp	University of Arkansas at Pine Bluff
+901	415	corp	University of Buffalo (N.Y.)
+902	415	corp	University of Buffalo
+903	416	corp	University of California (1868-1952). College of Agriculture. Division of Irrigation Investigations and Practices [active 1929 – active 1941]
+904	416	corp	University of California (1868-1952). College of Agriculture. Division of Irrigation Investigations and Practices [active 1889 – active 1962]
+905	417	corp	University of California (1868-1952). Dept. of Oriental Languages. [active 1858 – active 1955]
+906	417	corp	University of California (1868-1952). Dept. of Oriental Languages and Literature. 
+907	418	corp	University of California (System). Regents [person; active 1853 – active 1931]
+908	418	corp	University of California (System). Regents [active 1951 – active 1970]
+909	419	corp	University of California, Berkeley. Dept. of Entomological Science [active 1929 – active 1954]
+910	419	corp	University of California, Berkeley. Dept. of Entomological Sciences
+911	420	corp	University of California, Davis. College of Agriculture and Environmental Sciences [active 1997 – active 2007]
+912	420	corp	University of California, Davis. College of Agriculture and Environmental Sciences
+913	421	corp	University of California, Davis. College of Agriculture and Environmental Sciences. Executive Committee  [active 1952 – active 2000]
+914	421	corp	University of California, Davis. College of Agriculture and Environmental Sciences. Executive Committee
+915	422	corp	University of California, Davis. Library. Humanites and Social Sciences Dept.
+916	422	corp	University of California, Davis. Library. Humanities and Social Sciences Dept.
+917	423	corp	University of California, Davis. Office of the Vice Chancellor – Academic Affairs
+918	423	corp	University of California, Davis. Office of the Vice Chancellor – Business and Finance
+919	423	corp	University of California, Davis. Office of the Vice Chancellor – Facilities
+920	423	corp	University of California, Davis. Office of the Vice Chancellor – University Relations 
+921	423	corp	University of California, Davis. Office of the Vice Chancellor – Student Affairs
+922	424	corp	University of California, Irvine. Claire Trevor School of the Arts [person; active 1966 – active 1988]
+923	424	corp	University of California, Irvine. Claire Trevor School of the Arts [active 1999 – active 2005]
+924	425	corp	University of California, Irvine. Critical Theory Institute
+925	425	corp	University of California, Irvine. Critical Theory Institute [person; active 1987 – active 2008]
+926	426	corp	University of California, Irvine. Dept. of Special Collections [active approximately 1965 – active 1986]
+927	426	corp	University of California, Irvine. Dept. of Special Collections and Archives [active 1967 – active 2008]
+928	427	corp	University of California, Irvine. Office of Relations with Schools.
+929	427	corp	University of California, Irvine. Office of Relations with Schools and Colleces
+930	427	corp	University of California, Irvine. Office of Relations with Schools and Colleges [active 1965 – active 2008]
+931	428	corp	University of California, Irvine. Office of Registrar and Student Academic Information Systems
+932	428	corp	University of California, Irvine. Office of Registrar and Student Academic Information Systems [active 1965 – active 2008]
+933	429	corp	University of California, San Francisco. Committee of Human Experimentation [active 1961 – active 1972]
+934	429	corp	University of California, San Francisco. Committee of Human Experimentaion
+935	430	corp	University of California, San Francisco. Hospital and Clinics Manager Advisory Group
+936	430	corp	University of California, San Francisco. Hospital and Clinics Managers Advisory Group [active 1985]
+937	431	corp	University of California, Santa Barbara. Institute for Theoretical Physics.
+938	431	corp	University of California, Santa Barbara. Instutite for Theoretical Physics.
+939	432	corp	University of Central Missouri. James C. Kirkpatrick Library. Philip A. Sadler Research Collection of Literature for Children and Young Adults
+940	432	corp	University of Central Missouri. James C. Kirkpatrick Library. Phillip A. Sadler Research Collection of Literature for Children and Young Adults
+941	433	corp	University of Georgia [person; active 1956 – active 1961]
+942	433	corp	University of Georgia [active 1800 – active 1929]
+943	434	corp	University of Guelph. Arboretum.
+944	434	corp	University of Guelph. Arborteum
+945	435	corp	University of Guelph. Buildings. Botany & Zoology Building
+946	435	corp	University of Guelph. Buildings. Botany and Zoology Building
+947	436	corp	University of Guelph. Buildings. South Residence
+948	436	corp	University of Guelph. Buildings. South Residences
+949	437	corp	University of Guelph. College of Biological Science. Dean (1971-1982 : Ronald)
+950	437	corp	University of Guelph. College of Biological Science. Dean (1971-1983 : Ronald)
+951	438	corp	University of Guelph. College of Family and Consumer Studies. Dean (1969- : Wardlaw)
+952	438	corp	University of Guelph. College of Family and Consumer Studies. Dean (1969-1983 : Wardlaw)
+953	439	corp	University of Guelph. Dept. of Agriculture Economics & Business
+954	439	corp	University of Guelph. Dept. of Agricultural Economics & Business
+955	439	corp	University of Guelph. Dept. of Agricultural Economics and Business
+956	440	corp	University of Guelph. Dept. of Animal & Poultry Science
+957	440	corp	University of Guelph. Dept. of Animal and Poultry Science
+958	441	corp	University of Guelph. Dept. of English Language & Literature
+959	441	corp	University of Guelph. Dept. of English Language and Literature 
+960	442	corp	University of Guelph. Dept. of Student Afairs
+961	442	corp	University of Guelph. Dept. of Student Affairs
+962	443	corp	University of Guelph. Dept. of Veterinary Microbiology & Immunology
+963	443	corp	University of Guelph. Dept. of Veterinary Microbiology and Immunology
+964	444	corp	University of Guelph. School of Agricultural Economics & Extension Education
+965	444	corp	University of Guelph. School of Agricultural Economics and Extension Education
+966	445	corp	University of Guelph. School of Rural Planning and Development. Sulawesi Regional Development Project.
+967	445	corp	University of Guelph. School of Rural Planning and Development. Sulawesi Reigional Development Project
+968	446	corp	University of Houston – Clear Lake. School of Human Sciences and Humanities
+969	446	corp	University of Houston – Clear Lake. School of Human Sciences and Humanities
+970	447	corp	University of Houston. Dept. of English
+971	447	corp	University of Houston –- Dept. of English
+972	448	corp	University of Illinois [active 1963 – active 1964]
+973	448	corp	University of Illinois [person]
+974	449	corp	University of Judaism [active 1954 – active 1985]
+975	449	corp	University of Judaism (Los Angeles) [active 1947 – active 1960]
+976	449	corp	University of Judaism (Los Angeles, Calif.)
+977	450	corp	University of Melbourne, Hanson – Dyer Music Collection (242.)
+978	450	corp	University of Melbourne, Hanson – Dyer Music Collection
+979	451	corp	University of Michigan – Flint
+980	451	corp	University of Michigan -- Flint
+981	452	corp	University of Michigan. Botancial Gardens
+982	452	corp	University of Michigan. Bontanical Gardens
+983	453	corp	University of Michigan. Homeopathic Hospital
+984	453	corp	University of Michigan. Homoeopathic Hospital
+985	454	corp	University of Michigan. Office of the Vice President for Research.
+986	454	corp	University of Michigan. Office of the Vice-President for Research.
+987	455	corp	University of Minnesota, Morris. Campus Planning Committee .
+988	455	corp	University of Minnesota, Morris. Campus Planning Committee.
+989	456	corp	University of Minnesota. Board of Regents [person; active 1859 – active 1918]
+990	456	corp	University of Minnesota. Board of Regents [active 1948 – active 1989]
+991	457	corp	University of Minnesota. Dept. of Rural Sociology [person]
+992	457	corp	University of Minnesota, Dept. of Rural Sociology
+993	458	corp	University of Missouri – Columbia
+994	458	corp	University of Missouri -- Columbia
+995	459	corp	University of Missouri -- Columbia. Counseling Services
+996	459	corp	University of Missouri -- Columbia. Counseling Servics
+997	460	corp	University of Missouri -- Columbia. Institute Research & Planning
+998	460	corp	University of Missouri -- Columbia. Institute Research and Planning
+999	461	corp	University of Missouri -- Columbia. Procurement/Materials Management
+1000	461	corp	University of Missouri -- Columbia. Procurement Materials Management
+1001	462	corp	University of Missouri – Columbia
+1002	462	corp	University of Missouri -- Columbia
+1003	463	corp	University of Missouri. Human Recource Services.
+1004	463	corp	University of Missouri. Human Resources Services [active 1973 – active 1979]
+1005	464	corp	University of New Hampshire. University Art Galleries
+1006	464	corp	University of New Hampshire. University Art Galleris
+1007	465	corp	University of North Carolina at Chapel Hill. Morehead-Patterson Memorial Tower
+1008	465	corp	University of North Carolina at Chapel Hill. Morehead Patterson Memorial Tower
+1009	466	corp	University of North Carolina at Greensboro. Department of Classical Studies
+1010	466	corp	University of North Carolina at Greensboro. Dept. of Classical Studies
+1011	467	corp	University of North Carolina at Greensboro. Department of English
+1012	467	corp	University of North Carolina at Greensboro. Dept. of English
+1013	468	corp	University of North Carolina at Greensboro. Department of History
+1014	468	corp	University of North Carolina at Greensboro. Dept. of History
+1015	469	corp	University of Northern Iowa. Library. Special Collections & University Archives
+1016	469	corp	University of Northern Iowa. Library. Special Collections and University Archives
+1017	470	corp	University of Pennsylvania. Department of Anthropology [active 1925 – active 1937]
+1018	470	corp	University of Pennsylvania. Dept. of Anthropology 
+1019	471	corp	University of Pennsylvania. Department of Medicine [active 1849 – active 1858]
+1020	471	corp	University of Pennsylvania. Dept. of Medicine
+1021	472	corp	University of Pennsylvania. Department of Physics
+1022	472	corp	University of Pennsylvania. Dept. of Physics
+1023	473	corp	University of Pennsylvania. School of Veterinary Medicine [active 1832 – active 1991]
+1024	473	corp	University of Pennsylvania. School of Veternary Medicine
+1025	474	corp	University of Pittsburgh [person; active 1911 – active 1920]
+1026	474	corp	University of Pittsburgh [active 1957 – active 1975]
+1027	475	corp	University of Pittsburgh. Bill and Sue McGowan Center for Artificial Heart and Lung Research
+1028	475	corp	University of Pittsburgh. Bill and Sue McGowan Center fpr Artificial Heart and Lung Research
+1029	476	corp	University of Pittsburgh. University Library System. Digital Research Library
+1030	476	corp	University of Pittsburgh. University Library System. Digital Reseearch Library
+1031	477	corp	University of Pretoria. Alt-Deutsch-Afrikansicher Studentenverein
+1032	477	corp	University of Pretoria. Alt-Deutsch-Afrikanischer Studentenverein
+1033	478	corp	University of Pretoria. Deutsch-Afrikansicher Studentenverein
+1034	478	corp	University of Pretoria. Deutsch-Afrikanischer Studentenverein
+1035	479	corp	University of Queenland
+1036	479	corp	University of Queensland [person; active 1926 – active 1972]
+1037	479	corp	University of Queensland
+1038	480	corp	University of Queensland. Sports Union [active 1911 – active 1914]
+1039	480	corp	University of Queensland. Sports Union [person; active 1914 – active 1926]
+1040	481	corp	University of Rhode Island. Office of Sports Information
+1041	481	corp	University of Rhode Island. Office of Sports Informtion [active 1896 – active 1999]
+1042	482	corp	University of Rochester (N.Y.)
+1043	482	corp	University of Rochester (Rochester, N.Y.)
+1044	482	corp	University of Rochester
+1045	483	corp	University of San Marcos (Lima, Peru)
+1046	483	corp	University of San Marcus (Lima, Peru)
+1047	484	corp	University of Strasbourg 
+1048	484	corp	University of Strasburg [person]
+1049	485	corp	University of Texas at Austin. Dept. Dept. of Astronomy
+1050	485	corp	University of Texas at Austin. Dept. of Astronomy
+1051	486	corp	University of Utah. Academic Vice-President
+1052	486	corp	University of Utah. Academic Vice-President [person]
+1053	487	corp	University of Utah. Executive Vice-President (Dixon : 19) [active 1967 a- active 1972]
+1054	487	corp	University of Utah. Executive Vice-President (Dixon : 1970-1972) [active 1967 a- active 1972]
+1055	488	corp	University of Virginia. Anatomical Theater
+1056	488	corp	University of Virginia. Anatomical Theatre
+1057	489	corp	University of Virginia. Board of Visitors [person; active 1819 – active 1823]
+1058	489	corp	University of Virginia. Board of Visitors
+1059	490	corp	University of Virginia. Department of Buildings and Grounds [active 1954 – active 1982]
+1060	490	corp	University of Virginia. Dept. of Buildings and Grounds
+1061	491	corp	University of Virginia. Department of Economics [active 1956 – active 1970]
+1062	491	corp	University of Virginia. Dept. of Economics
+1063	492	corp	University of Virginia. Department of English [active 1917 – active 1970]
+1064	492	corp	University of Virginia. Dept. of English
+1065	493	corp	University of Virginia. Department of French [active 1963 – active 1986]
+1066	493	corp	University of Virginia. Dept. of French
+1067	494	corp	University of Virginia. Department of Geology [active 1955 – active 1947]
+1068	494	corp	University of Virginia. Dept. of Geology
+1069	495	corp	University of Virginia. Honor Committee [person; active 1961 – active 1974]
+1070	495	corp	University of Virginia. Honor Committee
+1071	496	corp	University of Virginia. Library. Rare Book Department
+1072	496	corp	University of Virginia. Library. Rare Book Dept.
+1073	497	corp	University of Virginia. University Union [person; active 19770 – active 1973]
+1074	497	corp	University of Virginia. University Union [active 1959 – active 1980]
+1075	498	corp	University Place Book Shop  [active 1901 – active 1968]
+1076	498	corp	University Place Book Shop (New York, N.Y.) [active approximately 1930 – active 1994]
+1077	499	corp	University Regent Theater (Syracuse, N.Y.)
+1078	499	corp	University Regent Theatre (Syracuse, N.Y.) 
+1079	500	corp	University/Resident Theatre Association (U/RTA)
+1080	500	corp	University/Resident Theatre Association
+1081	501	corp	US Army Military History Institute. Senior Officer Oral History P…. [active 1941 – 1active 1986]
+1082	501	corp	US Army Military History Institute. Senior Officer Oral History P…. [person]
+1083	502	pers	Usery, W.J. (1923-)
+1084	502	pers	Usery, W.J., 1923-
+1085	503	pers	Usher, Ellis B., 1785-1855
+1086	503	pers	Usher, Ellis Baker, 1785-1855
+1087	503	pers	Usher, Ellis-Baker
+1088	504	pers	Usher, Leila, 1858-
+1089	504	pers	Usher Leila, 1859-1955
+1090	504	pers	Usher, Leia, 1859-1955
+1091	505	pers	Usher, Patrick, 1801-1843
+1092	505	pers	Usher, Patrick, fl. 1839-1843
+1093	506	corp	USM Libraries. de Grummond Children's Literature collection [active 1951 – active 1998]
+1094	506	corpn	USM Libraries. deGrummond children's Literature collection [active approximate – active 1980]
+1095	507	pers	Uspenskii, Gleb Ivanovich, 1843-1902
+1096	507	pers	Uspenskii, Glev Ivanovich, 1843-1902
+1097	508	pers	Ustinov, Peter, 1921- 2004
+1098	508	pers	Ustinov, Peter [active 1914 – active 2001]
+1099	509	pers	Usuard, 876or 7
+1100	509	pers	Usuard, d. 876 or 7

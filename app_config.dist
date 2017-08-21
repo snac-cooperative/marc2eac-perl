@@ -1,0 +1,22 @@
+
+# Paths are never / terminated.
+
+# full path to the data directory.
+
+data_dir = /home/twl8n/data
+
+# This is the root of the data directory, and must be the prefix of the data_dir. Mostly this exists because
+# we strip this part off of what the public sees in order to obfuscate the full path on the server.
+
+data_root = /home/twl8n
+
+find_exe = /bin/find
+
+chmod_exe = /bin/chmod
+
+document_root = /projects/socialarchive/development
+
+zip_exe = /usr/bin/zip
+
+yax_marcdump_exe = /usr/bin/yaz-marcdump
+
